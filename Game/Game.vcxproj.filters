@@ -24,4 +24,7 @@
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="res\shaders\basic.shader" />
+  </ItemGroup>
 </Project>
